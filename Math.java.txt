@@ -1,0 +1,6 @@
+package Math;
+	public class math{
+	  public static int sum(){
+	  }
+	   int sum=5+2;
+	  }
